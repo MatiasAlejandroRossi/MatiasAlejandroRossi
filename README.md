@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Matías (Hecho con IA ignorar información por el momento estoy configurando.)
 
-<!--
-**MatiasAlejandroRossi/MatiasAlejandroRossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador web apasionado por el diseño visual, la programación en Python y la creación de experiencias digitales con propósito.
 
-Here are some ideas to get you started:
+🎯 Actualmente estoy construyendo [RedPixel.dev](https://redpixel.dev), mi portfolio personal, donde combino código limpio con estética funcional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologías y herramientas
+
+- 🧠 CSS avanzado: tipografía, layout, responsive design
+- ⚙️ JavaScript: manipulación del DOM, métodos de arrays
+- 🐍 Python scripting: automatización y lógica
+- 📦 GitHub: colaboración, documentación en Markdown
+- 🎨 Branding: diseño de logos e identidad visual
+
+## 🚀 Proyectos destacados
+
+- [RedPixel.dev](https://redpixel.dev) — Portfolio creativo en desarrollo
+- [YouTube](https://youtube.com/@RedPixelDev) — Tutoriales y recursos para devs visuales
+
+## 🤝 Colaboración
+
+Me encanta trabajar en equipo, compartir aprendizajes y construir soluciones con otros desarrolladores.  
+Si tenés una idea o querés conectar, ¡escribime!
+
+📫 **Contacto:** [LinkedIn](https://linkedin.com/in/matiasdev) | [Email](mailto:matias@redpixel.dev)
